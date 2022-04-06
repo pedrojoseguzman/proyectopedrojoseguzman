@@ -1,0 +1,47 @@
+.c1{
+    display: flex;
+    
+}
+
+.c2{
+    display: flex;
+}
+.c3{
+    display: flex;
+}
+img{
+display: flex;
+flex-direction: column;
+align-content: center;
+width: 200px;
+height: 200px;
+align-items: center;
+}
+body{
+    background-image:url(https://img.freepik.com/foto-gratis/concepto-material-madera-textura-papel-pintado-fondo_53876-42925.jpg?w=2000);
+
+}
+.img1{
+    
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        border-radius: 200px;
+        border-width: 100px;
+       
+}
+.Centrar{
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    align-content: left;
+    margin:0 auto;
+    width: 1230px;
+}
+.o2{
+    background-image: url("https://img.freepik.com/foto-gratis/concepto-material-madera-textura-papel-pintado-fondo_53876-42925.jpg?w=2000");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
